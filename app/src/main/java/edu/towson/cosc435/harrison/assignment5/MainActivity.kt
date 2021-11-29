@@ -91,5 +91,4 @@ fun RestAPIScreen(
 
         //I cant figure out how to get the information from the view models and data classes to put in here
 
-    }
 }
